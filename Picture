@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Website</title>
+</head>
+<body>
+
+  <h1>Welcome to My Website</h1>
+
+  <img src="IMG_2234.HEIC" alt="My Picture" width="250">
+
+</body>
+</html>
