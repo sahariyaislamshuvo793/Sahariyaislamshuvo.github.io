@@ -1,15 +1,24 @@
-# Sahariyaislamshuvo.github.io
-Welcome to my official website! Here you'll find my latest updates, projects, photos, and personal journey. Stay connected and explore more about my work, interests, and achievements." � Polee +1
+
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Website</title>
+  <title>Sahariya Islam Shuvo</title>
 </head>
-<body>
+<body style="text-align:center; font-family:Arial;">
 
-  <h1>Welcome to My Website</h1>
+  <img src="IMG_2234.HEIC" width="200" alt="My Photo">
 
-  <img src="IMG_2234.HEIC" alt="My Picture" width="250">
+  <h1>Sahariya Islam Shuvo</h1>
+
+  <p><b>Phone:</b> +8801791996607</p>
+
+  <p><b>Email:</b> sahariyaislamshuvo793@email.com</p>
+
+  <p><b>Address:</b> Bangladesh</p>
+
+  <h2>About Me</h2>
+
+  <p>Hello! I am Sahariya Islam Shuvo. Welcome to my personal website.</p>
 
 </body>
 </html>
